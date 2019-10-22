@@ -2,4 +2,4 @@
 Chat App Built using Java-Android
 
 
-Ongoing Chat Application using Google-Firebase API.
+Ongoing Chat Application using Firebase API.
