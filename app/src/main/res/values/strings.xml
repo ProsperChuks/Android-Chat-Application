@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name"><i>e</i>nvanto<b>CHAT</b></string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="btnSignup">SIGN UP</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome Back!"</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="join">Join the Fun!</string>
+    <string name="email">E-mail</string>
+    <string name="auth_options">OR CONNECT WITH</string>
+    <string name="facebook">FACEBOOK</string>
+    <string name="google">GOOGLE</string>
+    <string name="message"><b>Messages</b></string>
+</resources>
